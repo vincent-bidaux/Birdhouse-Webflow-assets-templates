@@ -21,6 +21,7 @@ You can customize the editor, replacing the Webflow logo by the one of your proj
 
 **Showcase thumbnail 540px × 360px**
 When you decide to showcase a Webflow site in your designer's profile, you need to upload a thumbnail image. Most likely a screenshot of your site, but you can decide to enhance it with an overlay, a logo, a text.
+
 ![](http://uploads.webflow.com/58e65779839dc1c36f5d3414/58e79c3e82a04e49d7b4e2f7_showcase-illus.jpg)
 
 **Open Graph 1200px × 630px**
