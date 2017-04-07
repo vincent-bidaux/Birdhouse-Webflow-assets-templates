@@ -2,6 +2,8 @@
 A set of Photoshop, Illustrator Sketch and Affinity Designer templates to generate useful assets for your Webflow projects.*
 _* Photoshop, Illustrator Sketch and Affinity Designer templates soon to be released_
 
+[Check the project's site](http://birdhouse-template.webflow.io/)
+
 ![qh17r](https://cloud.githubusercontent.com/assets/3494919/24807855/25c4e044-1bba-11e7-9e8d-8a8140846263.jpg)
 
 Use those templates to design the assets that you need to produce to deliver the most complete and fine tuned website. All templates provide well named artboards for export convenience.
